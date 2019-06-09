@@ -1805,3 +1805,28 @@ body {
 .cid-rsUCQCWUf7 {
   background-color: #000000;
 }
+.cid-rsUCQCWUf7 H1 {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-rsUIegRjz8 {
+  background: #000000;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rsUIegRjz8 .image-block {
+  margin: auto;
+}
+.cid-rsUIegRjz8 figcaption {
+  position: relative;
+}
+.cid-rsUIegRjz8 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rsUIegRjz8 .image-block {
+    width: 100% !important;
+  }
+}
