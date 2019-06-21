@@ -1814,7 +1814,7 @@ body {
   text-align: center;
 }
 .cid-ru1MU37yLt {
-  padding-top: 45px;
+  padding-top: 60px;
   padding-bottom: 120px;
   background-color: #000000;
 }
@@ -2076,7 +2076,7 @@ body {
   background: transparent !important;
 }
 .cid-ru1MU37yLt .image_wrapper {
-  height: 510px;
+  height: 530px;
   width: 100%;
   position: relative;
   display: inline-block;
@@ -2089,7 +2089,7 @@ body {
   text-align: center;
 }
 .cid-ru1MU37yLt .content-slider-wrap {
-  width: 100%;
+  width: 91%;
 }
 .cid-ru1MU37yLt P {
   text-align: center;
@@ -2979,21 +2979,21 @@ body {
 .cid-ru2azilVej .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-ru2aTswnH0 {
-  padding-top: 90px;
+.cid-ru2B2QIsV0 {
+  padding-top: 135px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/illu-portofolio-1150x1080.jpg");
+  background-color: #000000;
 }
-.cid-ru2aTswnH0 P {
-  color: #767676;
+.cid-ru2B2QIsV0 .mbr-section-subtitle {
+  letter-spacing: .2rem;
 }
-.cid-ru2aTswnH0 H1 {
-  text-align: center;
-  color: #ffffff;
+.cid-ru2B2QIsV0 .media-container-column {
+  background-color: #000000;
 }
-.cid-ru2aTswnH0 .mbr-text,
-.cid-ru2aTswnH0 .mbr-section-btn {
-  color: #ffffff;
+@media (max-width: 767px) {
+  .cid-ru2B2QIsV0 .media-container-column {
+    padding: 1rem !important;
+  }
 }
 .cid-ru2b0hRBjC {
   padding-top: 90px;
@@ -4674,7 +4674,7 @@ body {
   color: #ffffff;
 }
 .cid-ru2rr9fflj {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #000000;
 }
@@ -4682,19 +4682,19 @@ body {
   padding-bottom: 2.5rem;
 }
 .cid-ru2rr9fflj .mbr-text {
-  color: #767676;
+  color: #ffffff;
   margin: 0;
   padding-top: 0.5rem;
 }
 .cid-ru2rr9fflj .iconfont-wrapper {
   display: flex;
   align-items: center;
-  width: 2rem;
-  height: 2rem;
+  width: 1.7rem;
+  height: 1.7rem;
   margin-right: 2rem;
 }
 .cid-ru2rr9fflj .iconfont-wrapper .amp-iconfont {
-  font-size: 2rem;
+  font-size: 1.7rem;
 }
 .cid-ru2rr9fflj .wrapper {
   display: flex;
@@ -4708,9 +4708,12 @@ body {
     display: none;
   }
 }
+.cid-ru2rr9fflj H5 {
+  color: #ffffff;
+}
 .cid-ru2rrO1fZh {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 120px;
   background: linear-gradient(0deg, #000000, #000000);
 }
 .cid-ru2rrO1fZh .mbr-iconfont-social {
@@ -4719,6 +4722,9 @@ body {
 }
 .cid-ru2rrO1fZh .social-list a:focus {
   text-decoration: none;
+}
+.cid-ru2rrO1fZh H2 {
+  color: #ffffff;
 }
 .cid-ru2sPxyROP .navbar {
   padding: .5rem 0;
