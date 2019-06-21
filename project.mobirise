@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -789,7 +789,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/background1.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -916,7 +916,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mockup-application-2000x1429.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
