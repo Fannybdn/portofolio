@@ -2483,10 +2483,29 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-ru2aHjHGjn {
-  padding-top: 60px;
+.cid-ru2joFCqwl {
+  padding-top: 120px;
+  padding-bottom: 45px;
+  background-color: #000000;
+}
+.cid-ru2joFCqwl .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-ru2joFCqwl H2 {
+  color: #ffffff;
+}
+.cid-ru2jHjVPWO {
+  background: #000000;
+  padding-top: 0px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-ru2jHjVPWO .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-ru2jHjVPWO .video-block {
+    width: 100% !important;
+  }
 }
 .cid-ru1FlqyR5l {
   padding-top: 120px;
